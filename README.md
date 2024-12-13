@@ -2,7 +2,7 @@
 Reference impleentation from https://www.ti.com/lit/ug/slau520a/slau520a.pdf
 
 
-Code Uses settingd from the  Table 12. ADS1247 Register Settings in page 30
+Code uses settings from the  Table 12. ADS1247 Register Settings in page 30
 ### Table 12: ADS1247 Register Settings
 **Table 12. ADS1247 Register Settings**
 
