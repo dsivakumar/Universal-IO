@@ -25,3 +25,5 @@ Code uses settings from the  Table 12. ADS1247 Register Settings in page 30
 | GPIODAT  | 0Eh     | 00h   | Clear all GPIO data                                                          |
 
 *Note:* Registers with values marked as 'xx' change depending on the calibration results.
+
+![ADS12xx Diagram](https://github.com/dsivakumar/Universal-IO/blob/main/ads12xx.png)
