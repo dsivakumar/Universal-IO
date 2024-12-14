@@ -277,7 +277,7 @@ void setup() {
   //test_intTemp();
   RTDSetup();
 }
-
+//3-wire RTD 
 void RTDSetup() {
 
   // 0--A// 2--20 3--0 A--96 B--3
